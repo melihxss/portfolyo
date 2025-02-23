@@ -1,7 +1,7 @@
 
 const AboutSection= () => {
   return (
-    <section className="min-h-screen bg-gray-900 text-white flex flex-col items-center py-2.5 justify-center px-6">
+    <section id="hakkimda" className="min-h-screen bg-gray-900 text-white flex flex-col items-center py-2.5 justify-center px-6">
       <div className="max-w-md text-center">
         <h2 className="text-3xl font-bold mb-4">Hakkımda</h2>
         <p className="text-lg leading-relaxed">

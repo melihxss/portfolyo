@@ -1,3 +1,8 @@
+html {
+  scroll-behavior: smooth;
+}
+
+
 @keyframes typing {
   from {
     width: 0;

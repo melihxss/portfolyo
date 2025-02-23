@@ -1,6 +1,6 @@
 const Iletisim = () => {
     return (
-      <section className="bg-gradient-to-b from-gray-900 to-black text-white py-10 px-6">
+      <section id="iletisim" className="bg-gradient-to-b from-gray-900 to-black text-white py-10 px-6">
         <div className="max-w-md mx-auto text-center">
           <h2 className="text-2xl font-bold border-b-2 border-gray-500 pb-2">İletişim</h2>
           <p className="text-gray-300 mt-3">Bana aşağıdaki kanallardan ulaşabilirsiniz:</p>

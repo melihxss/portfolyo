@@ -26,7 +26,7 @@ const HomePage = () => {
       <div className="relative w-full h-screen overflow-hidden">
         {/* Video Arkaplan */}
         <video
-          className="absolute top-0 left-1 w-full h-full object-cover"
+          className="absolute top-0  w-full h-full object-cover"
           autoPlay
           loop
           muted

@@ -25,7 +25,7 @@ export default function MobileMenu() {
         <ul className="p-6 space-y-4">
           <li><a onClick={handleClick} href="#hakkimda" className="block hover:text-black">Hakkımda</a></li>
           <li><a onClick={handleClick} href="#vizyonum" className="block hover:text-gray-400">Vizyonum</a></li>
-          <li><a onClick={handleClick} href="#yeteneklerim" className="block hover:text-gray-400">Yeteneklerim</a></li>
+          <li><a onClick={handleClick} href="#eğitimlerim" className="block hover:text-gray-400">Yeteneklerim</a></li>
           <li><a onClick={handleClick} href="#iletisim" className="block hover:text-gray-400">İletişim</a></li>
         </ul>
       </div>

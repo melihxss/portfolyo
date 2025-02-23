@@ -1,6 +1,6 @@
 const Vizyonum = () => {
     return (
-      <section className="h-auto  flex  justify-center bg-gradient-to-b from-gray-900 to-black text-white p-12">
+      <section id="vizyonum" className="h-auto  flex  justify-center bg-gradient-to-b from-gray-900 to-black text-white p-12">
         <div className="max-w-md text-center space-y-4">
           <h2 className="text-3xl font-bold border-b-2 border-gray-500 pb-2">
             Vizyonum
